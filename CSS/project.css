@@ -2,6 +2,24 @@
     text-align: center;
     margin-left: 15%;
 }
-.card-body{
-    background-color: yellow;
+.card1{
+    background-image: url("/Projects/Portfolio/assets/API\ Project.png");
+    background-size: cover;
+    color:red;
+}
+.card2{
+    background-image: url("/Projects/Portfolio/assets/static\ webpage.jpg.png");
+    background-size: cover;
+    color:red;
+}
+.card3{
+    background-image: url("/Projects/Portfolio/assets/CSS\ CREATURE.jpg.png");
+    background-size: cover;
+    color: red;
+}
+.card4{
+    background-color: blue;
+}
+.card5{
+    background-color: red;
 }
