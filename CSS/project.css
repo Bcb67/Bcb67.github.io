@@ -3,17 +3,17 @@
     margin-left: 15%;
 }
 .card1{
-    background-image: url("/Projects/Portfolio/assets/API\ Project.png");
+    background-image: url("./assets/API\ Project.png");
     background-size: cover;
     color:red;
 }
 .card2{
-    background-image: url("/Projects/Portfolio/assets/static\ webpage.png");
+    background-image: url("./assets/static\ webpage.png");
     background-size: cover;
     color:red;
 }
 .card3{
-    background-image: url("/Projects/Portfolio/assets/CSS\ CREATURE.png");
+    background-image: url("./assets/CSS\ CREATURE.png");
     background-size: cover;
     color: red;
 }
