@@ -1,4 +1,5 @@
 body {
     background: var(--green);
     font-family: var(--font 1);
+    overflow-x: hidden;
 }
